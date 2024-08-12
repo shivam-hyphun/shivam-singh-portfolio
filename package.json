@@ -8,7 +8,7 @@
 	  "export": "next export",
 	  "start": "next start",
 	  "lint": "next lint",
-	  "deploy": "gh-pages -d out"  // <-- Added deploy script
+	  "deploy": "gh-pages -d out"
 	},
 	"dependencies": {
 	  "gh-pages": "^4.0.0",
