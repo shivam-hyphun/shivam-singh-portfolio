@@ -1,14 +1,12 @@
 /** @type {import('next').NextConfig} */
-const isProd = process.env.NODE_ENV === 'production';
-
 const nextConfig = {
   output: "export",
   reactStrictMode: true,
   swcMinify: true,
-  basePath: isProd ? '/shivam-singh-portfolio' : '',
-  assetPrefix: isProd ? '/shivam-singh-portfolio/' : '',
+  basePath: '',
+  assetPrefix: '',
   images: {
-    unoptimized: true,
+    loader: 'default', // This is the default loader, but you might want to customize this depending on your needs.
   },
 };
 
