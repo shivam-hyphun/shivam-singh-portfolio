@@ -6,7 +6,7 @@ const nextConfig = {
   basePath: '',
   assetPrefix: '',
   images: {
-    loader: 'default', // This is the default loader, but you might want to customize this depending on your needs.
+    loader: 'default',
   },
 };
 
