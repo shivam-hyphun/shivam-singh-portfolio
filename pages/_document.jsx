@@ -8,7 +8,7 @@ class MyDocument extends Document {
 				<Head>
 
 					<meta property="og:title" content="Shivam Singh Portfolio" />
-					<meta property="og:description" content="Shivan is a FullS stack Developer who specializes in building (and occasionally designing) exceptional digital experiences." />
+					<meta property="og:description" content="Shivan is a Full Stack Developer who specializes in building (and occasionally designing) exceptional digital experiences." />
 					<meta property="og:image" content="https://ik.imagekit.io/shivamsingh45/Portfolio/1676181822836.jpeg?updatedAt=1723216533908" />
 					<meta property="og:url" content="https://shivam-hyphun.github.io/shivam-singh-portfolio/" />
 					<meta property="og:type" content="website" />
