@@ -30,7 +30,7 @@ export default function AboutMe() {
       <div className="flex flex-col sm:flex-row gap-3">
         <div className="md:text-xl text-base md:w-[70%] my-3">
         <p className="leading-8 text-justify">
-  Hello! <br /> I&apos;m Shivam Singh Pariaha, and I have a passion for crafting digital experiences on the internet. My journey in web development began in 2023 when I joined Yasham Academy to pursue a web development course. This experience ignited my enthusiasm for coding and design, leading me to an internship at <a
+  Hello! <br /> I&apos;m Shivam Singh Pariahar, and I have a passion for crafting digital experiences on the internet. My journey in web development began in 2023 when I joined Yasham Academy to pursue a web development course. This experience ignited my enthusiasm for coding and design, leading me to an internship at <a
     href="https://yashamsoftware.com/"
     target="_blank"
     rel="noopener noreferrer"
